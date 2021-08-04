@@ -12,7 +12,7 @@ Reforce seu conhecimento em Programação Orientada a Objetos (POO) em C# com um
 ##### Felipe Aguiar
 Coordenador de Education & Talent Success, Digital Innovation One
 
-[Acesso ao projeto] (https://web.digitalinnovation.one/lab/abstraindo-um-jogo-de-rpg-usando-orientacao-a-objetos-com-c/learning/2be7bcad-ef42-474f-b748-4a375916f8ac)
+[Acesso ao projeto](https://web.digitalinnovation.one/lab/abstraindo-um-jogo-de-rpg-usando-orientacao-a-objetos-com-c/learning/2be7bcad-ef42-474f-b748-4a375916f8ac)
 
 https://web.digitalinnovation.one/lab/abstraindo-um-jogo-de-rpg-usando-orientacao-a-objetos-com-c/learning/2be7bcad-ef42-474f-b748-4a375916f8ac
 
