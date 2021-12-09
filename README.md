@@ -16,3 +16,6 @@ Coordenador de Education & Talent Success, Digital Innovation One
 
 https://web.digitalinnovation.one/lab/abstraindo-um-jogo-de-rpg-usando-orientacao-a-objetos-com-c/learning/2be7bcad-ef42-474f-b748-4a375916f8ac
 
+
+## New Url
+https://web.dio.me/lab/abstraindo-um-jogo-de-rpg-usando-orientacao-a-objetos-com-c/learning/2be7bcad-ef42-474f-b748-4a375916f8ac
